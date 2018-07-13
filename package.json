@@ -1,0 +1,19 @@
+{
+  "name": "poi-plugin-react",
+  "version": "0.0.1",
+  "description": "Fix poi-plugin-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicklandgrebe/poi-plugin-react.git"
+  },
+  "author": "Egoist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicklandgrebe/poi-plugin-react/issues"
+  },
+  "homepage": "https://github.com/nicklandgrebe/poi-plugin-react#readme"
+}
